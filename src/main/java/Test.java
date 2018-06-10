@@ -4,6 +4,8 @@ public class Test {
 
         System.out.println("test we are new");
 
+        System.out.println("test we are new2");
+
         System.out.println("change");
     }
 }
